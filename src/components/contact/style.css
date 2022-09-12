@@ -1,0 +1,95 @@
+.contact {
+    padding: 60px;
+    background: #e3f1fe;
+    display: inline-block;
+    margin: 30px;
+    box-shadow: 0px 0px 15px #0000001a;
+    margin-left: 110px;
+    border-radius: 5px;
+}
+
+.title-form {
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #F7941D;
+    margin-left: 35px;
+}
+
+.head-form {
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-left: 35px;
+}
+
+.contact-form {
+    padding: 20px;
+    margin: 10px;
+}
+
+.contact-box {
+    margin-bottom: 50px;
+}
+
+.contact-icon {
+    margin-left: 50px;
+}
+
+.contact-field {
+    width: 270px;
+}
+
+.btn-contact:hover {
+    background-color: #e94560;
+}
+
+/* contact call */
+.contact-call {
+    padding: 60px;
+    background: #e3f1fe;
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 0px 0px 15px #0000001a;
+    margin-left: 50px;
+    border-radius: 5px;
+    font-size: 15px;
+    line-height: 13px;
+   
+}
+
+.single-head {
+
+}
+
+.single-info {
+    margin-bottom: 20px;
+}
+
+.title {
+    margin-bottom: 10px;
+}
+
+.contact-list {
+    margin-bottom: 20px;
+    word-wrap: break-word;
+}
+
+.call-icon {
+    color: #fff;
+    font-size: 18px;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    display: block;
+    text-align: center;
+    border-radius: 3px;
+    line-height: 40px;
+    background: #F7941D;
+    margin-bottom: 10px;
+   
+}
+
+.contact-desc {
+    margin-bottom: 20px;
+}
